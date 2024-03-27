@@ -1,7 +1,9 @@
 # CBTCR
 the code and dataset for CBTCR
 
-#### IJSEKE-CBTCR-code.py is the code for implementing CBTCR and processing experimental data for CBTCR and other techniques.
+#### MBFL-test-reduction-CBTCR-code-extend.py is the code for implementing CBTCR on Defects4J.
+
+#### IJSEKE-CBTCR-analysis-extend.py is the process of experimental data for CBTCR and other techniques.
 
 #### The intermediate data represents the output obtained from running Defects4J.
 
